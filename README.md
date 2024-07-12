@@ -1,2 +1,2 @@
-# Q-Learning-In-C-
+# Q-Learning-In-C++
 (:
