@@ -1,2 +1,3 @@
-# Q-Learning-In-C++
-(:
+# Q-Learning-For-Tic-Tac-Toe
+
+Written in C++
