@@ -61,6 +61,7 @@ int main() {
     train(Q);
 
     serialize(Q, "5");
+    ‎// deserialize(Q, "5");
 
     while (true) {
         test(Q);
